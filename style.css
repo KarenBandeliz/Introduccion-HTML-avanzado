@@ -1,0 +1,17 @@
+body{background: rgb(253,253,253);
+    background: -moz-linear-gradient(top, rgb(253,253,253) 0%, rgb(243,191,221) 53%, rgb(105,104,123) 100%);
+    background: -webkit-linear-gradient(top, rgb(253,253,253) 0%, rgb(243,191,221) 53%, rgb(105,104,123) 100%);
+    background: linear-gradient(to bottom, rgb(253,253,253) 0%, rgb(243,191,221) 53%, rgb(105,104,123) 100%);
+    }
+    #demotext {
+        color: #FFFFFF;
+        background: #333333;
+        text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #FF2D95 0px 0px 20px, #FF2D95 0px 0px 30px, #FF2D95 0px 0px 40px, #FF2D95 0px 0px 50px, #FF2D95 0px 0px 75px;
+        color: #FFFFFF;
+        background: #333333;
+        }
+
+h1 {color: rgba(5, 4, 0, 0.363); text-align: justify; font-family: Arial, Helvetica, sans-serif;
+
+}
+
